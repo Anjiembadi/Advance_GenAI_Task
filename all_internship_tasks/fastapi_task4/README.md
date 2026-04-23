@@ -3,7 +3,7 @@
 ## Run the app
 
 ```bash
-cd c:\Users\anugu\OneDrive\Documents\fastapi_task4
+cd c:\Users\anjinan\OneDrive\Documents\fastapi_task4
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
