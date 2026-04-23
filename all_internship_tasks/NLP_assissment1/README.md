@@ -96,7 +96,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Hruthik Anugu**
+**Anji Embadi**
 
 
 ---
